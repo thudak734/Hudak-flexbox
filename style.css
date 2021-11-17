@@ -1,0 +1,29 @@
+.container {
+    background-color: #551A8B;
+    color: rgba(255,255,255,0.8);
+    font-family: 'Lato', sans-serif;
+    padding: 5px;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style:none;
+  }
+  
+  a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+  
+  li {
+    display: inline;
+    padding: 5px;
+  }
+  
